@@ -1,0 +1,5 @@
+
+30 PRINTF "AS{}","AVC"
+35 LET A = "ASSSD"
+40 LET B=  86
+50 PRINTF "  ISD , , ,   ,   PD  {},  ,   {}   ,    {} {}", 123,  "QAQ", A,B

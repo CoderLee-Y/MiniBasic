@@ -1,0 +1,16 @@
+10 REM TEST FOR STRING
+20 LET A = "ABC"
+30 LET B="ABC"
+40 LET A = ' A B B'
+50 LET B = '  AS  DS    '
+60 LET C = "   A   "
+55 INPUTS A
+56 INPUTS B
+61 PRINT A
+62 PRINT B
+65 PRINT C
+70 REM ERROR NEXT
+80 LET R = "   PRR  FS  DD'
+90 LET F = "   '
+100 LET M = "   -   '  "
+
